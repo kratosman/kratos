@@ -1,1 +1,3 @@
 # **KRATOS**
+
+![kratos](/kratosImage.png)
